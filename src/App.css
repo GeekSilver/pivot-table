@@ -1,0 +1,22 @@
+table {
+  overflow: scroll;
+  border-collapse: collapse;
+}
+table thead {
+  background-color: darkblue;
+  color: #fff;
+}
+.totals-row {
+  color: black;
+  font-weight: bold;
+  background-color: lightgray;
+}
+
+#grand-totals-row {
+  border-top: 1px solid black;
+}
+
+.category-column {
+  color: black;
+  font-weight: bold;
+}
